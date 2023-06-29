@@ -1,6 +1,7 @@
-$this->repository just For Gabut !!!
+## Alex-Shop
+$this->repository is just gabut !!!
 
-HOW TO RUN !!!
-1.Clone $this->repository
-2. Run npm install
-3. Run npm run dev
+### How To Run !!! 
+-   **Clone $this->repository**
+-   **Run npm install**
+-   **Run npm run dev**
